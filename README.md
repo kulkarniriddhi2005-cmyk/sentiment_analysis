@@ -1,6 +1,6 @@
 # 🎭 Sentiment Analysis using NLP & Machine Learning
 
-A production-quality **Sentiment Analysis** web application that predicts whether a given text/review expresses a **Positive** or **Negative** sentiment. Built with traditional NLP techniques and explainable Machine Learning — no black-box LLMs.
+A production-quality **Sentiment Analysis** web application that predicts whether a given text/review expresses a **Positive** or **Negative** sentiment. Built with traditional NLP techniques and explainable Machine Learning - no black-box LLMs.
 
 ---
 
