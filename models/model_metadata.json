@@ -1,0 +1,11 @@
+{
+  "model_name": "Linear SVM",
+  "num_train_samples": 40000,
+  "num_features": 50000,
+  "metrics": {
+    "accuracy": 0.9106,
+    "precision": 0.9108,
+    "recall": 0.9106,
+    "f1_score": 0.9106
+  }
+}

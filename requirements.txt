@@ -1,0 +1,26 @@
+# ============================================
+# Sentiment Analysis NLP Project - Dependencies
+# ============================================
+
+# NLP & Text Processing
+nltk>=3.9
+
+# Machine Learning
+scikit-learn>=1.5
+
+# Data Handling
+pandas>=2.2
+numpy>=2.0
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+
+# Web Application
+streamlit>=1.39
+
+# Model Persistence
+joblib>=1.4
+
+# Dataset
+datasets>=3.0
